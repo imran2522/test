@@ -8,4 +8,5 @@
   function alertFunc2() {
     alert("test demo 2");
   }
+  myFunction2();
 })();
